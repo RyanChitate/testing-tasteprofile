@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "expo-user-management",
+  "short_name": "expo-user-management",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
